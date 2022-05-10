@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Latest Update on Russia-Ukraine War",
+      "body": "Ukrainian President Volodymyr Zelensky’s office on Monday demanded the withdrawal of all Russian troops,including from Crimea and Donbass, at peace talks in Belarus according to report by Russian state media Sputn. Peace talks between Ukraine and Russia on Monday began in Belarus with high-level delegations from the two countries. The much-awaited talks is aimed at ending ending hostilities between the two countries, reports Reuters.President Vladimir Putin dramatically escalated East-West tensions by ordering Russian nuclear forces put on high alert Sunday, while Ukraine’s embattled leader agreed to talks with Moscow as Putin’s troops and tanks drove deeper into the country, closing in around the capital.",
+      "author": "Angela",
+      "id": 1
+    },
+    {
+      "title": "U.S. Sharply Escalates Sanctions Against Russia as Fighting Continues",
+      "body": "The Treasury Department announced a freeze on Russian Central Bank assets. Delegations from Kyiv and Moscow were meeting for talks in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv,Ukraine’s second largest city.Here’s the latest news from Russia’s invasion of Ukraine.As Ukraine’s second largest city reeled under a barrage of Russian rockets that left dozens of people dead, officials said, a Ukrainian delegation met counterparts from Russia on Monday in Belarus for talks that held little hope for an immediate end to the fighting that has sparked a nationwide resistance in Ukraine and left Russia’s economy increasingly isolated from the world.",
+      "author": "Mary",
+      "id": 2
+    },
+    {
+      "title": "Russia attacks Ukraine: 500K people have fled Ukraine, UN says (live updates).",
+      "body": "The Treasury Department announced a freeze on Russian Central Bank assets. Delegations from Kyiv and Moscow were meeting for talks in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv,Ukraine’s second largest city.Here’s the latest news from Russia’s invasion of Ukraine.As Ukraine’s second largest city reeled under a barrage of Russian rockets that left dozens of people dead, officials said, a Ukrainian delegation met counterparts from Russia on Monday in Belarus for talks that held little hope for an immediate end to the fighting that has sparked a nationwide resistance in Ukraine and left Russia’s economy increasingly isolated from the world.",
+      "author": "Angela",
+      "id": 3
+    }
+  ]
+}
